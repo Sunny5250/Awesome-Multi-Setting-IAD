@@ -1,5 +1,5 @@
 # Awesome-Multi-Setting-UIAD [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[Information Fusion 2025] A taxonomy of **U**nsupervised **I**ndustrial **A**nomaly **D**etection (**UIAD**) methods and datasets (updating).
+A taxonomy of **U**nsupervised **I**ndustrial **A**nomaly **D**etection (**UIAD**) methods and datasets (updating).
 
 
 Welcome to follow our papers [**"A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection"**](https://www.sciencedirect.com/science/article/pii/S156625352500212X).
